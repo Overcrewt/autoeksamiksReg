@@ -373,3 +373,5 @@ Jarva-Jaani.Gumnaasium@jarva.ee
 kool@surju.ee
 virtsukool@laaneranna.ee
 kool@raekyla.parnu.ee
+kool@raekyla.parnu.ee
+kool@varakool.edu.ee
